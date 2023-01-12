@@ -1,6 +1,10 @@
 # Compendium-of-C-Tasks
 I am a student and this repository of lab work I have been doing. I haven't changed anything in the code so that I can track my progress in learning the C++ programming language.  In the README file, you can find a list of tasks to easily navigate through the files.
 
+### NOTE
+Some code is not quite optimized and optimal, but it works).
+There are comments in Russian in the code.
+
 ## Linear programming
 Labs 1:
 
