@@ -83,6 +83,8 @@ Tasks:
 First file :  "In a one-dimensional array consisting of N integers, calculate:"  
                    "1.index of the element closest to the geometric mean of the elements"  
                    "2.sum of products of all possible different pairs of array elements"
+		   
+Second file : Sorting an array of N characters in nonincreasing order using direct swap sorting.
 
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  ## Multidimensional arrays
@@ -102,6 +104,7 @@ Tasks:
 
 First file : A string of characters representing a certain passage of a literary work is entered from the keyboard. For each word in the text determine how many times it occurs;
 
+Second file : A set of words of size N is entered from the keyboard. Based on it get two strings with even and odd indices.
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  ## Functions
 Labs 9:
