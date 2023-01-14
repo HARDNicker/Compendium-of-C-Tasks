@@ -105,6 +105,7 @@ Tasks:
 First file : A string of characters representing a certain passage of a literary work is entered from the keyboard. For each word in the text determine how many times it occurs;
 
 Second file : A set of words of size N is entered from the keyboard. Based on it get two strings with even and odd indices.
+
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  ## Functions
 Labs 9:
